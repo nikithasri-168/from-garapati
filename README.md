@@ -5,11 +5,11 @@ pizzas are very **delicious** in this restaurant and it also delivers faster whe
 ---
 
 ###### Dishes
-1.Spaghetti Bolognese
-2.Grilled Salmon
-3.Margherita Pizza
+1.Spaghetti Bolognese<br>
+2.Grilled Salmon<br>
+3.Margherita Pizza<br>
 
-*PVP
-*Trendset
-*LEPL
+*PVP<br>
+*Trendset<br>
+*LEPL<br>
 
