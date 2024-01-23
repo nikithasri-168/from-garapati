@@ -5,7 +5,7 @@ Here’s nothing better than cuddling up with a good book. Books inherently offe
 ###### Files
 Here I'm listing out some books which gives us knowledge and contains very intresting facts.Some books contains moral and ethical stories which a person should know and follow them in their lifestyle.Here I'm listing out some books which gives us knowledge and contains very intresting facts.Some books contains moral and ethical stories which a person should know and follow them in their lifestyle.
 |   Name   |   Reason   |   Author   |
-|:  ----   |:  ------  :|   ------  :|
+|  ----    |    ------  |   ------   |
 |Empty pot |Moral Story |Demi|
 |The Lorax |Moral Story |Seuss|
 |Hero Mom  |Moral Story |David|
