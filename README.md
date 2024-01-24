@@ -12,6 +12,6 @@ pizzas are very **delicious** in this restaurant and it also delivers faster whe
 *PVP<br>
 *Trendset<br>
 *LEPL<br>
-[page](C:\Users\s567143\Desktop\WebApps\Webapps-repos\from-garapati\MyMedia.md)
+[page](MyMedia.md)
 
 
