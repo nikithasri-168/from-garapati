@@ -10,4 +10,10 @@ Here I'm listing out some books which gives us knowledge and contains very intre
 |The Lorax |Moral Story |Seuss|
 |Hero Mom  |Moral Story |David|
 
+***
 
+###### Quotes
+>The only way to do great work is to love what you do.
+-*Steve Jobs*
+>In three words I can sum up everything I've learned about life: it goes on.
+—*Robert Frost*
