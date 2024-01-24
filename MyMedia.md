@@ -13,7 +13,7 @@ Here I'm listing out some books which gives us knowledge and contains very intre
 ***
 
 ###### Quotes
->The only way to do great work is to love what you do.
--*Steve Jobs*
->In three words I can sum up everything I've learned about life: it goes on.
-—*Robert Frost*
+>The only way to do great work is to love what you do.<br>
+-*Steve Jobs*<br>
+>In three words I can sum up everything I've learned about life: it goes on.<br>
+—*Robert Frost*<br>
