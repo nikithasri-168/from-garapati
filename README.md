@@ -9,6 +9,7 @@ pizzas are very **delicious** in this restaurant and it also delivers faster whe
 2.Grilled Salmon<br>
 3.Margherita Pizza<br>
 
+###### Places to visit near restaurant
 *PVP<br>
 *Trendset<br>
 *LEPL<br>
