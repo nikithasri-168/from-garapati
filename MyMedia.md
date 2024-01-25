@@ -9,6 +9,7 @@ Here I'm listing out some books which gives us knowledge and contains very intre
 |Empty pot |Moral Story |Demi|
 |The Lorax |Moral Story |Seuss|
 |Hero Mom  |Moral Story |David|
+|The Lorax |Moral Story |Seuss|
 
 ***
 
